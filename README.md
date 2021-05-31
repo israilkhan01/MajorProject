@@ -1,1 +1,3 @@
 # MajorProject
+
+![](gitimages/chart.jpeg)
